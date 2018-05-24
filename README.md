@@ -8,3 +8,5 @@ This Workflow is an Action Extension for iOS. Use photo mode and Playstation's S
 - or download the Discovr.wflow file and add it manually
 # Watermark
 To add a watermark save your logo as iCloudDrive/Workflow/Watermark.png
+# Example
+![Discovr](image.jpg)
