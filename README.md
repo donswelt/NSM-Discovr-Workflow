@@ -10,3 +10,4 @@ This Workflow is an Action Extension for iOS. Use photo mode and Playstation's S
 To add a watermark save your logo as iCloudDrive/Workflow/Watermark.png
 # Example
 ![Discovr](image.jpg)
+You can find the Batahara S39 at EUCLID:0448:0081:0D55:0176 in No Man's Sky.
